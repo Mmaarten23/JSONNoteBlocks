@@ -33,6 +33,11 @@ Directory: megalovania
 Filename: megalovania
 Author: Mmaarten
 ````
+In video form:
+
+[![Video tutorial on how to use this project](https://img.youtube.com/vi/5xF3PS3Fm2U/2.jpg)](https://www.youtube.com/watch?v=5xF3PS3Fm2U)
+
+
 
 ### Support
 Contact @Mmaarten#1769 on discord for help!
